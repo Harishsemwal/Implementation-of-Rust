@@ -1,6 +1,6 @@
 # Implementation-of-Rust
 Hi everyone, I am currently learning Rust, a cool programming language. It's known for being fast, safe, and good for doing lots of things at the same time. I'm excited to learn more about it and see what I can create.
-# Rust
+# Rust :
 A language empowering everyone
 to build reliable and efficient software.
 
